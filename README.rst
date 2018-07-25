@@ -1,12 +1,14 @@
-# DDOSdetector
+DDOSdetector:
+########################################
 
 this repository contains a notebook and data for training and testing a ddos detector using machine learning. 
 
-## How to use
+How to use:
+=============
 
 clone repository :
 
-	clone 
+	clone git@github.com:Reda-Abdellah/DDOSdetector.git 
 
 before executing the code on the notebook unzip data+ipasn.tar.gz in the repository root folder:
 
@@ -23,7 +25,7 @@ and then choose ddos_detector.ipynb
 if you don't have jupyter-notebook installed you can run the .py :
 	python ddos_detector.py 
 
-## all these sub-datasets are made from august.week1.csv URG16
+all these sub-datasets are made from august.week1.csv URG16
 
 we just reduced them with linux terminal for computetional matter :
 
