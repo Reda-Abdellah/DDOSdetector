@@ -8,7 +8,7 @@ How to use:
 
 clone repository :
 
-	clone git@github.com:Reda-Abdellah/DDOSdetector.git 
+	git clone https://github.com/Reda-Abdellah/DDOSdetector.git 
 
 before executing the code on the notebook unzip data+ipasn.tar.gz in the repository root folder:
 
