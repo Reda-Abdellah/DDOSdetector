@@ -13,16 +13,19 @@ clone repository :
 before executing the code on the notebook unzip data+ipasn.tar.gz in the repository root folder:
 
 	cd DDOSdetector
+
 	tar -xvzf data+ipasn.tar.gz
  
 install required packages:
 
 	pip install numpy pandas sklearn pyasn
+
 	jupyter-notebook 
 
 and then choose ddos_detector.ipynb
 
 if you don't have jupyter-notebook installed you can run the .py :
+
 	python ddos_detector.py 
 
 all these sub-datasets are made from august.week1.csv URG16
